@@ -1,0 +1,8 @@
+{
+  "name": "CaçaPequi",
+  "description": "Uma plataforma inteligente de busca e análise de editais culturais, utilizando IA para extrair dados e traduzir juridiquês.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
